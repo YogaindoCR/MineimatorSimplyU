@@ -31,19 +31,19 @@ html {
 }
 
 ::-webkit-scrollbar-thumb {
-    background: #a78bfa;
+    background: #8bb6fa;
     border-radius: 10px;
     border: 2px solid #060b18;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-    background: #c4b5fd;
+    background: #bde1fd;
 }
 
 /* Firefox support */
 * {
     scrollbar-width: thin;
-    scrollbar-color: #a78bfa #060b18;
+    scrollbar-color: #8bb6fa #060b18;
 }
 
 section {
